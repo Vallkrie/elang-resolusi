@@ -3,3 +3,4 @@ Elang resolusi
 - belajar react.js
 - menjadi Front-End
 - mendapatkan kerja sebagai frontend
+= kerja di start up khusus IT
