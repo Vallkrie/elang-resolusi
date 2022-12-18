@@ -1,4 +1,5 @@
 Elang resolusi
 - menguasai html css js 
 - belajar react.js
-menjadi Front-End
+- menjadi Front-End
+- mendapatkan kerja sebagai frontend
