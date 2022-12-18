@@ -2,4 +2,5 @@ rencana elang
 
 -javascript
 -react.js
+-angular
 -github
