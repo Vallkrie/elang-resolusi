@@ -1,6 +1,8 @@
 rencana elang
 
 -javascript
+-vuejs
 -react.js
+
 -angular
 -github
