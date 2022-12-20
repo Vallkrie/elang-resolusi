@@ -6,3 +6,5 @@ rencana elang
 
 -angular
 -github
+
+bekerja di startup
